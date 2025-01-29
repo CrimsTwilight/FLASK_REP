@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #ff5722;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+}
+
+.recipe-list li {
+    list-style: none;
+    margin: 10px 0;
+    padding: 10px;
+    background: #ffccbc;
+    border-radius: 5px;
+}
+
+.recipe-image {
+    max-width: 100%;
+    border-radius: 5px;
+}
